@@ -1,153 +1,63 @@
-# IEEE LAUNCHPAD Job Fair
+# JOEL BASIL KURIAN
 
+### About Me
 
+>  I'm Joel Basil Kurian, a passionate learner, public speaker, and dedicated prompt engineer deeply immersed in the world of Artificial Intelligence and technology. Currently, I'm pursuing a sophomore degree in Computer Science (Artificial Intelligence) at Muthoot Institute of Technology & Science.
+I thrive on the thrill of solving complex problems and leveraging my top skills in leadership, programming, and Gen AI engineering to drive innovation and create impactful solutions. With a keen interest in peer-to-peer learning, I find immense joy in serving my fellow students by promoting collaborative learning environments and evangelizing the latest advancements in technology.
 
 
+### Portfolio Highlights
 
+### My Projects
 
+| Name                       | Description                          |                                                                               
+|----------------------------|--------------------------------------|
+| Student Management System  | Django-based alternative for EtLab   |            
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+#### Leadership and Influence:
 
+- My unwavering passion for Artificial Intelligence ignited a transformative journey. It drove me to pursue a Bachelor's degree in AI, a commitment that laid the foundation for my quest for excellence.
+- I've fortified my AI expertise by successfully completing rigorous AI bootcamps, earning certifications from industry giants like Microsoft, Google Developer Clubs, and AWS Community Builders. These certifications have sharpened my skills and endowed me with a robust AI knowledge base.
+- With an ardent desire to disseminate AI wisdom, I've taken the stage to deliver enlightening talks on Artificial Intelligence, Prompt Engineering, and various programming languages. These engagements provided me with a platform to impart knowledge to a diverse and eager audience.
+- As the Campus Lead of µLearn MITS, I've embraced the role of a mentor, motivator, and guide. Empowering peers and juniors to embark on their own journeys of technical expertise has been a defining aspect of my leadership. I'm on a mission to sow the seeds of innovation and passion in the hearts of future AI enthusiasts.
+- My ability to orchestrate harmonious collaborations within cross-functional teams has consistently resulted in successful project outcomes. Through clear communication, unwavering motivation, and adept problem-solving, I've fostered an environment where collective efforts flourish.
 
+With each experience, I've reinforced my commitment to the AI domain and my role as a leader and influencer. My journey is not just about personal growth; it's about sharing knowledge, fostering collaboration, and nurturing the AI talent of tomorrow.
 
+#### Networking:
 
+- In my opinion, networking isn't just about accumulating contacts. It's about building genuine, meaningful connections. I've cultivated relationships with professionals, mentors, and peers in my field through open communication, active listening, and a willingness to help and learn.
+- In the digital age, I've harnessed the power of platforms like LinkedIn, Twitter, and professional forums to connect with professionals worldwide. These platforms have been instrumental in broadening my network and staying updated on industry trends.
+- I firmly embrace the principle of giving back, frequently offering my insights, wisdom, and expertise to benefit others. This not only enriches the relationships within my network but also nurtures a shared sense of community and builds trust.
+- I will lead by example, showcasing dedication to continuous learning and setting high standards for coding and professional ethics.
+- I will regularly share insights and experiences through talks, articles, and social media, contributing to the community's knowledge base. This will help elevate the expertise of those around me.
+- By initiating discussions on hot-button technologies and industry trends, I aim to inspire the Top 100 community to stay at the forefront of our field.
+- My leadership style centers around empowerment. I will empower fellow coders to take on leadership roles themselves, guiding them in honing their skills and making a difference in the field.
 
+#### Career Plan:
 
+- My immediate plan is to grab a well-paid job in the Artificial Intelligence domain.
+- In the long term, I wish to see myself holding core roles in the same domain.
+- By organizing networking events, workshops, and meetups, I aim to facilitate partnerships and knowledge exchange within the startup ecosystem.
+- Educating startups on the latest trends and best practices will empower them to make informed decisions.
+- I envision the establishment of world-class incubation and acceleration programs within Kerala. These programs will provide startups with resources, mentorship, and funding to scale their operations and compete on a global scale.
+- I aim to create a startup-friendly environment by simplifying bureaucratic processes, reducing red tape, and encouraging public-private partnerships to invest in the startup ecosystem.
+- My immediate and longer-term plans revolve around mentoring, networking, knowledge sharing, policy advocacy, and creating a fertile ground for technology startups in Kerala.
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### Thoughts on Kerala's Tech Ecosystem:
 
-#
+- Building a strong foundation begins with investing in education and research. Kerala can establish specialized tech education centers like GTech µLearn and research hubs that foster innovation and entrepreneurship.
+- Setting up incubators and accelerators tailored to various technology domains will provide startups with the support they need.
+- Simplifying regulatory and bureaucratic processes will encourage both local and international entrepreneurs to choose Kerala as their base.
+- Kerala government should facilitate partnerships that encourage knowledge transfer and the development of market-ready products and services.
 
+#### History of Open Source Contributions:
 
+- I actively contribute to open-source projects, focusing on enhancing usability and functionality. My contributions span from improving documentation to enhancing codebase efficiency in widely adopted projects. Passionate about advancing collaborative software development, I strive to make meaningful contributions to the open-source community.
 
+#### History of Community Engagement:
 
-<div align="center">
-
-
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+-  I have been a regular contributor on Stack Overflow by answering questions related to programming languages like Python, C and Java, and libraries.
+-  I have also been a member of several developer-focused Discord servers and online communities like COZMEK.  I have actively contributed to discussions and provided guidance on various topics, fostering a sense of camaraderie among community members.
+-  I have maintained a technical blog where I have published tutorials, articles, and code samples.
+-  I have participated in hackathons and coding challenges on platforms like HackerRank, CodeChef, Coding Ninjas and LeetCode.
